@@ -88,3 +88,5 @@ deploy:
   type: github
   repo: https://github.com/GitNiko/gitniko.github.io.git
   branch: master
+# duoshuo
+duoshuo_shortname: YalVZme
